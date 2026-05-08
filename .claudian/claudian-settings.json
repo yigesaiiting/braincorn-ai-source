@@ -1,0 +1,75 @@
+{
+  "userName": "",
+  "permissionMode": "yolo",
+  "model": "haiku",
+  "thinkingBudget": "off",
+  "effortLevel": "medium",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "persistentExternalContextPaths": [],
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "customContextLimits": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "locale": "en",
+  "providerConfigs": {
+    "claude": {
+      "safeMode": "acceptEdits",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "enableOpus1M": false,
+      "enableSonnet1M": false,
+      "lastModel": "haiku",
+      "environmentVariables": "",
+      "environmentHash": ""
+    },
+    "codex": {
+      "enabled": true,
+      "safeMode": "workspace-write",
+      "cliPath": "/Applications/Codex.app/Contents/Resources/codex",
+      "cliPathsByHost": {
+        "yaoyuandeMacBook-Pro.local": "/Applications/Codex.app/Contents/Resources/codex"
+      },
+      "reasoningSummary": "detailed",
+      "environmentVariables": "OPENAI_BASE_URL=https://api.openai.com/v1\nOPENAI_API_KEY=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\nOPENAI_MODEL=gpt-5.4\n",
+      "environmentHash": "OPENAI_API_KEY=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|OPENAI_BASE_URL=https://api.openai.com/v1|OPENAI_MODEL=gpt-5.4",
+      "installationMethodsByHost": {
+        "yaoyuandeMacBook-Pro.local": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
+    }
+  },
+  "settingsProvider": "claude",
+  "savedProviderModel": {
+    "claude": "haiku",
+    "codex": "gpt-5.4-mini"
+  },
+  "savedProviderEffort": {
+    "claude": "medium",
+    "codex": "medium"
+  },
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
+  "savedProviderThinkingBudget": {
+    "claude": "off",
+    "codex": "off"
+  },
+  "lastCustomModel": "",
+  "maxTabs": 3,
+  "tabBarPosition": "input",
+  "enableAutoScroll": true,
+  "openInMainTab": false,
+  "hiddenProviderCommands": {}
+}

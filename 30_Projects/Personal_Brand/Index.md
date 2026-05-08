@@ -7,6 +7,7 @@ created: 2026-05-08
 updated: 2026-05-08
 source: 90_System/CODEX.md
 tags: [project, writing, brand]
+aliases: ["Personal Brand Index"]
 ---
 
 # Personal Brand Index

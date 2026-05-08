@@ -1,0 +1,30 @@
+---
+title: Inbox Index
+type: index
+domain: all
+status: active
+created: 2026-05-08
+updated: 2026-05-08
+source: 90_System/CODEX.md
+tags: [index, inbox]
+aliases: ["Inbox Index"]
+---
+
+# Inbox Index
+
+## 这里放什么
+
+- 临时收集、等待分流的资料
+- 还没确定归属的笔记片段
+- 需要先看一眼再决定去向的内容
+
+## 处理规则
+
+1. 先判断主题。
+2. 再分流到对应目录。
+3. 尽量不要长期留在 Inbox。
+4. 原始资料进入 `10_Raw/`，整理后的知识进入 `20_Wiki/`、`30_Projects/`、`40_Decisions/`、`50_Outputs/`。
+
+## 下一步
+
+- [[90_System/Prompts/01_资料入库工作流|资料入库工作流]]

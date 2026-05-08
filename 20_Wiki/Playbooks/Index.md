@@ -7,6 +7,7 @@ created: 2026-05-08
 updated: 2026-05-08
 source: 90_System/CODEX.md
 tags: [index, playbooks]
+aliases: ["Playbooks Index"]
 ---
 
 # Playbooks Index
@@ -16,9 +17,12 @@ tags: [index, playbooks]
 - [[盘前热度选股模型]]
 - [[妖股识别模型]]
 - [[财报催化交易模型]]
+- [[财报重估型AI小盘股扫描模型]]
+- [[新身份重估模型]]
 - [[期权小资金放大模型]]
 - [[半导体补涨股筛选模型]]
 - [[生物科技催化剂交易模型]]
+- [[Way to be a trader]]
 
 ## XingYu
 

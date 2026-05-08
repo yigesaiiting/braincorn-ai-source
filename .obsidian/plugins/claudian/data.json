@@ -1,11 +1,32 @@
 {
+  "model": "gpt-5.4-mini",
+  "settingsProvider": "codex",
+  "savedProviderModel": {
+    "codex": "gpt-5.4-mini"
+  },
+  "customContextLimits": {},
+  "providerConfigs": {
+    "codex": {
+      "enabled": true,
+      "safeMode": "workspace-write",
+      "cliPath": "/Applications/Codex.app/Contents/Resources/codex",
+      "cliPathsByHost": {
+        "yaoyuandeMacBook-Pro.local": "/Applications/Codex.app/Contents/Resources/codex"
+      },
+      "reasoningSummary": "detailed",
+      "environmentVariables": "OPENAI_BASE_URL=https://api.openai.com/v1\nOPENAI_API_KEY=YOUR_DEEPSEEK_API_KEY\nOPENAI_MODEL=gpt-5.4-mini",
+      "environmentHash": "",
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {}
+    }
+  },
   "tabManagerState": {
     "openTabs": [
       {
-        "tabId": "tab-1778232567918-6rhurg6",
-        "conversationId": null
+        "tabId": "tab-1778234606758-l2wem3f",
+        "conversationId": "conv-1778235108352-4e6sqps4d"
       }
     ],
-    "activeTabId": "tab-1778232567918-6rhurg6"
+    "activeTabId": "tab-1778234606758-l2wem3f"
   }
 }

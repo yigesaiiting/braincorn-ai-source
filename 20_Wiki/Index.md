@@ -7,9 +7,18 @@ created: 2026-05-08
 updated: 2026-05-08
 source: 90_System/CODEX.md
 tags: [index, wiki]
+aliases: ["Wiki Index"]
 ---
 
 # Braincorn Wiki Index
+
+## Vault Hubs
+
+- [[00_Inbox/Index|Inbox Index]]
+- [[30_Projects/Index|Projects Index]]
+- [[40_Decisions/Index|Decisions Index]]
+- [[50_Outputs/Index|Outputs Index]]
+- [[90_System/Index|System Index]]
 
 ## Concepts
 

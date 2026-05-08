@@ -16,3 +16,11 @@
 - `10_Raw/` 是原始层，默认不改。
 - `20_Wiki/` 是可复用知识层。
 - `50_Outputs/` 是阶段性报告层。
+
+## Navigation
+
+- [[90_System/Vault Map|Vault Map]]
+- [[20_Wiki/Index|Braincorn Wiki Index]]
+- [[30_Projects/Index|Projects Index]]
+- [[40_Decisions/Index|Decisions Index]]
+- [[50_Outputs/Index|Outputs Index]]

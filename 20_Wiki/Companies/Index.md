@@ -7,6 +7,7 @@ created: 2026-05-08
 updated: 2026-05-08
 source: 90_System/CODEX.md
 tags: [index, companies, markets]
+aliases: ["Companies Index"]
 ---
 
 # Companies Index
@@ -15,6 +16,7 @@ tags: [index, companies, markets]
 
 - [[IREN]]
 - [[CRWV]]
+- [[INOD]]
 - [[NVIDIA]]
 
 ## Semiconductor Momentum

@@ -7,6 +7,7 @@ created: 2026-05-08
 updated: 2026-05-08
 source: 90_System/CODEX.md
 tags: [index, decisions, markets]
+aliases: ["Investment Decisions Index"]
 ---
 
 # Investment Decisions Index
@@ -17,3 +18,6 @@ tags: [index, decisions, markets]
 
 - [[Trading System Index]]
 - [[盘前热度选股模型]]
+- [[2026-05-08 INOD 复盘]]
+- [[财报重估型AI小盘股扫描模型]]
+- [[2026-05-08 新身份重估模型]]

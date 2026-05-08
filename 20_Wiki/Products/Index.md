@@ -7,6 +7,7 @@ created: 2026-05-08
 updated: 2026-05-08
 source: 90_System/CODEX.md
 tags: [index, products, xingyu]
+aliases: ["Products Index"]
 ---
 
 # Products Index

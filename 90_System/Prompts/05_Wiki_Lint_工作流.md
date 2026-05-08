@@ -1,3 +1,14 @@
+---
+title: Wiki Lint 工作流
+type: prompt
+domain: system
+status: active
+created: 2026-05-08
+updated: 2026-05-08
+source: 90_System/Prompts/05_Wiki_Lint_工作流.md
+tags: [prompt, workflow]
+aliases: ["Wiki Lint 工作流"]
+---
 # Wiki Lint 工作流
 
 请对整个 Braincorn vault 做一次 wiki lint。

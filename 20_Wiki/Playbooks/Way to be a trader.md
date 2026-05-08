@@ -1,3 +1,14 @@
+---
+title: Way to be a trader
+type: playbook
+domain: markets
+status: draft
+created: 2026-05-07
+updated: 2026-05-08
+source: 00_Inbox/Way to be a trader.md
+tags: [playbook, markets, trading]
+---
+
 核心法则
 止损+止盈
 

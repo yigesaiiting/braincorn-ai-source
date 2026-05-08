@@ -7,6 +7,7 @@ created: 2026-05-08
 updated: 2026-05-08
 source: 90_System/CODEX.md
 tags: [project, trading]
+aliases: ["Trading System Index"]
 ---
 
 # Trading System Index
@@ -15,6 +16,8 @@ tags: [project, trading]
 
 - [[盘前热度选股模型]]
 - [[财报催化交易模型]]
+- [[财报重估型AI小盘股扫描模型]]
+- [[新身份重估模型]]
 - [[期权小资金放大模型]]
 
 ## Outputs
@@ -24,3 +27,7 @@ tags: [project, trading]
 ## Decisions
 
 - [[Investment Decisions Index]]
+
+## Learning Path
+
+- [[Way to be a trader]]
