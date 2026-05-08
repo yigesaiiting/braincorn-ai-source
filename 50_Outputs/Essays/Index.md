@@ -1,0 +1,19 @@
+---
+title: Essays Index
+type: index
+domain: writing
+status: active
+created: 2026-05-08
+updated: 2026-05-08
+source: 90_System/CODEX.md
+tags: [index, outputs, writing]
+---
+
+# Essays Index
+
+文章、文案、散文和个人表达输出入口。
+
+## Related
+
+- [[Personal Brand Index]]
+- [[冷感克制表达写作规范]]

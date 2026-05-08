@@ -1,0 +1,17 @@
+# Obsidian volatile state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/logs
+
+# Claudian / Claude runtime state
+.claudian/sessions/
+.claude/logs/
+.claude/tmp/
+
+# OS files
+.DS_Store
+
+# Local exports / temp
+*.tmp
+*.bak
