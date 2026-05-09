@@ -4,6 +4,16 @@ This repository is the Braincorn knowledge vault.
 
 Codex should treat this repo as a layered knowledge system, not a flat note dump.
 
+## Root entry points
+
+External AI systems should begin with these files:
+
+1. `README.md`
+2. `INDEX.md`
+3. `AI_README.md`
+
+These files are intended to be the repository-level entry surface for indexing and navigation.
+
 ## Operating principle
 
 Always prefer:
@@ -130,6 +140,8 @@ If yes, update the smallest relevant page.
 
 ## Helpful entry points
 
+- `README.md`
+- `INDEX.md`
 - `90_System/Vault Map.md`
 - `90_System/README.md`
 - `90_System/使用说明.md`
