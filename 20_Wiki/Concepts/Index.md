@@ -35,3 +35,4 @@ aliases: ["Concepts Index"]
 
 - [[LLM Knowledge Base]]
 - [[Obsidian as Markdown Frontend]]
+- [[AI token economy]]
