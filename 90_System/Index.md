@@ -17,6 +17,7 @@ aliases: ["System Index"]
 - [[90_System/CODEX|CODEX Rules]]
 - [[90_System/README|Braincorn Knowledge OS]]
 - [[90_System/使用说明|使用说明]]
+- [[90_System/Git 使用说明|Git 使用说明]]
 - [[90_System/Vault Map|Vault Map]]
 
 ## Prompts
