@@ -4,15 +4,17 @@ This repository is the Braincorn knowledge vault.
 
 Codex should treat this repo as a layered knowledge system, not a flat note dump.
 
-## Root entry points
+## Read first
 
-External AI systems should begin with these files:
+For navigation, read `README.md` and `INDEX.md` first.
 
-1. `README.md`
-2. `INDEX.md`
-3. `AI_README.md`
+Then follow the relevant section index:
 
-These files are intended to be the repository-level entry surface for indexing and navigation.
+- `90_System/Index.md`
+- `20_Wiki/Index.md`
+- `30_Projects/Index.md`
+- `40_Decisions/Index.md`
+- `50_Outputs/Index.md`
 
 ## Operating principle
 
@@ -38,19 +40,13 @@ Always prefer:
 
 When answering a question or making an edit, read in this order:
 
-1. The relevant index pages
-2. The most specific existing page
-3. Related project / decision pages
-4. Related outputs
-5. Raw sources only if verification is needed
-
-Recommended index pages:
-
-- `20_Wiki/Index.md`
-- `30_Projects/Index.md`
-- `40_Decisions/Index.md`
-- `50_Outputs/Index.md`
-- `90_System/Index.md`
+1. `README.md`
+2. `INDEX.md`
+3. The relevant section index
+4. The most specific existing page
+5. Related project / decision pages
+6. Related outputs
+7. Raw sources only if verification is needed
 
 ## Writing rules
 
@@ -142,8 +138,8 @@ If yes, update the smallest relevant page.
 
 - `README.md`
 - `INDEX.md`
+- `90_System/Index.md`
 - `90_System/Vault Map.md`
 - `90_System/README.md`
 - `90_System/使用说明.md`
 - `90_System/Git 使用说明.md`
-

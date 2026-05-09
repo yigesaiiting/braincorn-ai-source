@@ -12,21 +12,7 @@ aliases: ["Root Index", "Braincorn INDEX"]
 
 # INDEX
 
-这是 Braincorn vault 的根目录总索引，也是外部 AI / GitHub connector 最适合优先读取的入口页。
-
-
-## AI Entry Order
-
-如果是外部 AI / GitHub connector，请优先按以下顺序读取：
-
-1. `README.md`
-2. `INDEX.md`
-3. `AI_README.md`
-4. `90_System/Index.md`
-5. `20_Wiki/Index.md`
-6. `30_Projects/Index.md`
-7. `40_Decisions/Index.md`
-8. `50_Outputs/Index.md`
+This is Braincorn vault's canonical navigation index.
 
 ## Start Here
 
@@ -47,6 +33,7 @@ aliases: ["Root Index", "Braincorn INDEX"]
 ### AI / Knowledge System
 
 - `AI_README.md`
+- `README.md`
 - `90_System/README.md`
 - `90_System/CODEX.md`
 - `90_System/Vault Map.md`
