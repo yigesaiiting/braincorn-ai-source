@@ -1,0 +1,78 @@
+---
+title: INDEX
+type: index
+domain: all
+status: active
+created: 2026-05-09
+updated: 2026-05-09
+source: 90_System/README.md
+tags: [index, root, navigation]
+aliases: ["Root Index", "Braincorn INDEX"]
+---
+
+# INDEX
+
+这是 Braincorn vault 的根目录总索引。
+
+## Start Here
+
+- [[AI_README]]
+- [[90_System/Index]]
+- [[90_System/Vault Map]]
+- [[90_System/使用说明]]
+- [[90_System/Git 使用说明]]
+- [[20_Wiki/Index]]
+- [[30_Projects/Index]]
+- [[40_Decisions/Index]]
+- [[50_Outputs/Index]]
+
+## Core Notes
+
+### AI / Knowledge System
+
+- `AI_README.md`
+- `90_System/README.md`
+- `90_System/CODEX.md`
+- `90_System/Vault Map.md`
+- `90_System/使用说明.md`
+- `90_System/Git 使用说明.md`
+- `20_Wiki/Concepts/LLM Knowledge Base.md`
+- `20_Wiki/Concepts/Obsidian as Markdown Frontend.md`
+- `20_Wiki/Concepts/AI token economy.md`
+- `10_Raw/AI_Tools/Codex + Obsidian 工作流.md`
+- `10_Raw/AI_Tools/2026-05-09_AI token economy 与娱乐行业 AI 数据平台.md`
+
+### Markets / Trading
+
+- `20_Wiki/Companies/INOD.md`
+- `20_Wiki/Concepts/AI基础设施.md`
+- `20_Wiki/Concepts/FOMO.md`
+- `20_Wiki/Concepts/盘前放量.md`
+- `20_Wiki/Playbooks/Way to be a trader.md`
+- `20_Wiki/Playbooks/盘前热度选股模型.md`
+- `20_Wiki/Playbooks/财报催化交易模型.md`
+- `20_Wiki/Playbooks/财报重估型AI小盘股扫描模型.md`
+- `20_Wiki/Playbooks/新身份重估模型.md`
+- `40_Decisions/Investment_Decisions/2026-05-08 INOD 复盘.md`
+- `40_Decisions/Investment_Decisions/2026-05-08 新身份重估模型.md`
+- `10_Raw/Markets/2026-05-08_INOD_复盘_chatgpt分享.md`
+- `10_Raw/Markets/2026-05-08_AI高弹性成长股选股模型V2_chatgpt.md`
+
+### XingYu / Product / Career
+
+- `20_Wiki/Products/星与社区.md`
+- `20_Wiki/Concepts/饭圈社区冷启动.md`
+- `20_Wiki/Concepts/后援会入驻.md`
+- `20_Wiki/Concepts/商场痛楼合作.md`
+- `20_Wiki/Playbooks/饭圈社区冷启动模型.md`
+- `20_Wiki/Playbooks/后援会入驻转化模型.md`
+- `20_Wiki/Playbooks/商场痛楼合作模型.md`
+- `30_Projects/XingYu_Product/Index.md`
+- `30_Projects/XingYu_Growth/Index.md`
+- `40_Decisions/Career_Decisions/2026-05-09 娱乐行业 AI 数据平台方向.md`
+
+## Navigation Rule
+
+1. 先从这里进入，再去对应的 Index。
+2. 再读具体概念、项目或决策页。
+3. 原始材料只在需要核实时回到 `10_Raw/`。
