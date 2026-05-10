@@ -17,3 +17,5 @@ aliases: ["Templates Index"]
 - [[Company Page Template]]
 - [[Product Page Template]]
 - [[Daily_Capture_Template]]
+
+- [[持仓归纳模板]]
