@@ -57,6 +57,7 @@ This is Braincorn vault's canonical navigation index.
 - `20_Wiki/Concepts/盘前放量.md`
 - `20_Wiki/Concepts/新身份重估.md`
 - `20_Wiki/Concepts/题材潮流生命周期.md`
+- `20_Wiki/Concepts/达利欧大周期模型.md`
 - `20_Wiki/Playbooks/Way to be a trader.md`
 - `20_Wiki/Playbooks/盘前热度选股模型.md`
 - `20_Wiki/Playbooks/盘前30分钟热度股SOP.md`
