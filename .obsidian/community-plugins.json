@@ -1,5 +1,6 @@
 [
   "markitdown",
   "obsidian-pandoc",
-  "claudian"
+  "claudian",
+  "obsidian-git"
 ]
