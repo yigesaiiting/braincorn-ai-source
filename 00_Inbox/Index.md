@@ -5,7 +5,7 @@ domain: all
 status: active
 created: 2026-05-08
 updated: 2026-05-08
-source: 90_System/CODEX.md
+source: 90_Meta/CODEX.md
 tags: [index, inbox]
 aliases: ["Inbox Index"]
 ---
@@ -23,8 +23,8 @@ aliases: ["Inbox Index"]
 1. 先判断主题。
 2. 再分流到对应目录。
 3. 尽量不要长期留在 Inbox。
-4. 原始资料进入 `10_Raw/`，整理后的知识进入 `20_Wiki/`、`30_Projects/`、`40_Decisions/`、`50_Outputs/`。
+4. 原始资料进入 `10_Raw/`，整理后的知识进入 `20_Wiki/`、`30_Projects/`、`40_Resolutions/`、`50_Outputs/`。
 
 ## 下一步
 
-- [[90_System/Prompts/01_资料入库工作流|资料入库工作流]]
+- [[90_Meta/Prompts/01_资料入库工作流|资料入库工作流]]

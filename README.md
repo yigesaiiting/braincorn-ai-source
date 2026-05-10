@@ -11,18 +11,18 @@ For AI-specific execution rules, open [[AI_README]].
 - `10_Raw/` — raw source material
 - `20_Wiki/` — durable knowledge pages
 - `30_Projects/` — active projects
-- `40_Decisions/` — decisions and postmortems
+- `40_Resolutions/` — resolutions and postmortems
 - `50_Outputs/` — reports, PRDs, essays, reviews
-- `90_System/` — rules, prompts, templates, guides
+- `90_Meta/` — rules, prompts, templates, guides
 
 ## Primary links
 
 - [[INDEX]]
 - [[AI_README]]
-- [[90_System/Index]]
+- [[90_Meta/Index]]
 - [[20_Wiki/Index]]
 - [[30_Projects/Index]]
-- [[40_Decisions/Index]]
+- [[40_Resolutions/Index]]
 - [[50_Outputs/Index]]
 
 ## Reading rule

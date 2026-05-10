@@ -5,7 +5,7 @@ domain: writing
 status: active
 created: 2026-05-08
 updated: 2026-05-08
-source: 90_System/CODEX.md
+source: 90_Meta/CODEX.md
 tags: [project, writing, brand]
 aliases: ["Personal Brand Index"]
 ---

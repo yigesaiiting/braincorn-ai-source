@@ -5,7 +5,7 @@ domain: markets
 status: active
 created: 2026-05-08
 updated: 2026-05-08
-source: 90_System/CODEX.md
+source: 90_Meta/CODEX.md
 tags: [project, trading]
 aliases: ["Trading System Index"]
 ---
@@ -24,9 +24,9 @@ aliases: ["Trading System Index"]
 
 - [[Daily Market Reports Index]]
 
-## Decisions
+## Resolutions
 
-- [[Investment Decisions Index]]
+- [[Investment Resolutions Index]]
 
 ## Learning Path
 

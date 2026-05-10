@@ -6,7 +6,7 @@ domain: all
 status: active
 created: 2026-05-08
 updated: 2026-05-10
-source: 90_System/CODEX.md
+source: 90_Meta/CODEX.md
 tags: [index, outputs, review]
 aliases: ["Weekly Reviews Index"]
 ---

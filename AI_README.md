@@ -10,10 +10,10 @@ For navigation, read `README.md` and `INDEX.md` first.
 
 Then follow the relevant section index:
 
-- `90_System/Index.md`
+- `90_Meta/Index.md`
 - `20_Wiki/Index.md`
 - `30_Projects/Index.md`
-- `40_Decisions/Index.md`
+- `40_Resolutions/Index.md`
 - `50_Outputs/Index.md`
 
 ## Operating principle
@@ -26,15 +26,24 @@ Always prefer:
 4. avoid rewriting raw inputs
 5. leave a clear trail of changes
 
+## Vocabulary Map
+
+- Resolutions = personal judgments, decisions, reversals, tradeoffs, and postmortems
+- Meta = rules, workflows, templates, indexes, and vault operating instructions
+- Projects = active workstreams and ongoing initiatives
+- Wiki = durable reusable knowledge
+- Raw = source material and capture logs
+- Outputs = finished deliverables and reviews
+
 ## Vault layers
 
 - `00_Inbox/` — temporary intake only
 - `10_Raw/` — raw source material; do not rewrite unless explicitly asked
 - `20_Wiki/` — durable knowledge pages
 - `30_Projects/` — active workstreams and project context
-- `40_Decisions/` — judgments, decisions, and postmortems
+- `40_Resolutions/` — resolutions, judgments, reversals, and postmortems
 - `50_Outputs/` — reports, PRDs, essays, reviews, deliverables
-- `90_System/` — rules, prompts, templates, guides, navigation
+- `90_Meta/` — rules, prompts, templates, guides, navigation
 
 ## Read order
 
@@ -44,7 +53,7 @@ When answering a question or making an edit, read in this order:
 2. `INDEX.md`
 3. The relevant section index
 4. The most specific existing page
-5. Related project / decision pages
+5. Related project / resolution pages
 6. Related outputs
 7. Raw sources only if verification is needed
 
@@ -54,7 +63,7 @@ When answering a question or making an edit, read in this order:
 - If a formal page is needed, write to the appropriate layer:
   - concept/company/person/playbook/product → `20_Wiki/`
   - ongoing initiative → `30_Projects/`
-  - judgment / postmortem → `40_Decisions/`
+  - resolution / postmortem → `40_Resolutions/`
   - finished deliverable → `50_Outputs/`
 - Use YAML frontmatter for formal pages whenever possible.
 - Use Obsidian wiki-links for internal references.
@@ -83,9 +92,9 @@ For XingYu-related material, always separate:
 - execution SOPs
 - current bottleneck
 
-## Decision rules
+## Resolution rules
 
-When a new judgment appears, capture it in `40_Decisions/` and link it back to:
+When a new resolution appears, capture it in `40_Resolutions/` and link it back to:
 
 - the relevant wiki page
 - the relevant project page
@@ -97,7 +106,7 @@ If you produce a report, PRD, essay, outline, or review:
 
 - store it in `50_Outputs/`
 - backlink to the pages it updates
-- if a lasting conclusion emerged, also update the relevant wiki or decision page
+- if a lasting conclusion emerged, also update the relevant wiki or resolution page
 
 ## Editing discipline
 
@@ -112,7 +121,7 @@ If you produce a report, PRD, essay, outline, or review:
 - Keep existing vault naming conventions when possible.
 - Prefer `Index.md` for index pages.
 - Prefer descriptive names for durable notes.
-- For dated decisions and outputs, include the date in the filename.
+- For dated resolutions and outputs, include the date in the filename.
 
 ## Required response structure
 
@@ -129,7 +138,7 @@ After answering, determine whether the result should be reflected in:
 
 - a `20_Wiki/` page
 - a `30_Projects/` page
-- a `40_Decisions/` page
+- a `40_Resolutions/` page
 - a `50_Outputs/` page
 
 If yes, update the smallest relevant page.
@@ -138,8 +147,8 @@ If yes, update the smallest relevant page.
 
 - `README.md`
 - `INDEX.md`
-- `90_System/Index.md`
-- `90_System/Vault Map.md`
-- `90_System/README.md`
-- `90_System/使用说明.md`
-- `90_System/Git 使用说明.md`
+- `90_Meta/Index.md`
+- `90_Meta/Vault Map.md`
+- `90_Meta/README.md`
+- `90_Meta/使用说明.md`
+- `90_Meta/Git 使用说明.md`

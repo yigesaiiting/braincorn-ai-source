@@ -72,5 +72,5 @@ aliases: ["财报重估型 AI 小盘股扫描模型", "财报重估型AI小盘�
 
 - [[10_Raw/Markets/2026-05-08_INOD_复盘_chatgpt分享]]
 - [[20_Wiki/Companies/INOD]]
-- [[40_Decisions/Investment_Decisions/2026-05-08 INOD 复盘]]
+- [[40_Resolutions/Investment_Resolutions/2026-05-08 INOD 复盘]]
 

@@ -6,7 +6,7 @@ domain: all
 status: active
 created: 2026-05-09
 updated: 2026-05-10
-source: 90_System/README.md
+source: 90_Meta/README.md
 tags: [index, root, navigation]
 aliases: ["Root Index", "Braincorn INDEX"]
 ---
@@ -20,10 +20,10 @@ This is Braincorn vault's canonical navigation index.
 - [[README]]
 - [[INDEX]]
 - [[AI_README]]
-- [[90_System/Index]]
+- [[90_Meta/Index]]
 - [[20_Wiki/Index]]
 - [[30_Projects/Index]]
-- [[40_Decisions/Index]]
+- [[40_Resolutions/Index]]
 - [[50_Outputs/Index]]
 
 ## Core Notes
@@ -33,16 +33,16 @@ This is Braincorn vault's canonical navigation index.
 - `AI_README.md`
 - `README.md`
 - `INDEX.md`
-- `90_System/README.md`
-- `90_System/CODEX.md`
-- `90_System/Index.md`
-- `90_System/Vault Map.md`
-- `90_System/使用说明.md`
-- `90_System/Git 使用说明.md`
-- `90_System/Prompts/Index.md`
-- `90_System/AI_Workflows/Index.md`
-- `90_System/Knowledge_Rules/Index.md`
-- `90_System/Templates/Index.md`
+- `90_Meta/README.md`
+- `90_Meta/CODEX.md`
+- `90_Meta/Index.md`
+- `90_Meta/Vault Map.md`
+- `90_Meta/使用说明.md`
+- `90_Meta/Git 使用说明.md`
+- `90_Meta/Prompts/Index.md`
+- `90_Meta/AI_Workflows/Index.md`
+- `90_Meta/Knowledge_Rules/Index.md`
+- `90_Meta/Templates/Index.md`
 - `20_Wiki/Concepts/LLM Knowledge Base.md`
 - `20_Wiki/Concepts/Obsidian as Markdown Frontend.md`
 - `20_Wiki/Concepts/AI token economy.md`
@@ -64,8 +64,8 @@ This is Braincorn vault's canonical navigation index.
 - `20_Wiki/Playbooks/财报重估型AI小盘股扫描模型.md`
 - `20_Wiki/Playbooks/AI高弹性成长股选股模型V2.md`
 - `20_Wiki/Playbooks/新身份重估模型.md`
-- `40_Decisions/Investment_Decisions/2026-05-08 INOD 复盘.md`
-- `40_Decisions/Investment_Decisions/2026-05-08 新身份重估模型.md`
+- `40_Resolutions/Investment_Resolutions/2026-05-08 INOD 复盘.md`
+- `40_Resolutions/Investment_Resolutions/2026-05-08 新身份重估模型.md`
 - `10_Raw/Markets/2026-05-08_INOD_复盘_chatgpt分享.md`
 - `10_Raw/Markets/2026-05-08_AI高弹性成长股选股模型V2_chatgpt.md`
 
@@ -82,8 +82,8 @@ This is Braincorn vault's canonical navigation index.
 - `20_Wiki/Playbooks/商场痛楼合作模型.md`
 - `30_Projects/XingYu_Product/Index.md`
 - `30_Projects/XingYu_Growth/Index.md`
-- `40_Decisions/Career_Decisions/2026-05-09 娱乐行业 AI 数据平台方向.md`
-- `40_Decisions/Personal_Decisions/Index.md`
+- `40_Resolutions/Career_Resolutions/2026-05-09 娱乐行业 AI 数据平台方向.md`
+- `40_Resolutions/Personal_Resolutions/Index.md`
 - `30_Projects/Personal_System/Index.md`
 - `30_Projects/Body/Index.md`
 - `30_Projects/Writing/Index.md`
