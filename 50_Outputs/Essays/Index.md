@@ -18,3 +18,8 @@ aliases: ["Essays Index"]
 
 - [[Personal Brand Index]]
 - [[冷感克制表达写作规范]]
+
+## Writing Raw Drafts
+
+- [[10_Raw/Writing/Index|Raw Writing Index]]
+- [[30_Projects/Writing/Index|Writing Project Index]]

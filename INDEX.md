@@ -88,6 +88,12 @@ This is Braincorn vault's canonical navigation index.
 - `30_Projects/Body/Index.md`
 - `30_Projects/Writing/Index.md`
 
+### Writing / Expression
+
+- `10_Raw/Writing/Index.md`
+- `30_Projects/Writing/Index.md`
+- `50_Outputs/Essays/Index.md`
+
 ## Navigation Rule
 
 1. 先从这里进入，再去对应的 Index。
