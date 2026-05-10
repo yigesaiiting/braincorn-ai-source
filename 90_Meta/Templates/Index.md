@@ -19,3 +19,4 @@ aliases: ["Templates Index"]
 - [[Daily_Capture_Template]]
 
 - [[持仓归纳模板]]
+- [[每周持仓复盘模板]]
