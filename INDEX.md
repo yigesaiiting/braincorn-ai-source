@@ -1,10 +1,11 @@
+
 ---
 title: INDEX
 type: index
 domain: all
 status: active
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 source: 90_System/README.md
 tags: [index, root, navigation]
 aliases: ["Root Index", "Braincorn INDEX"]
@@ -20,9 +21,6 @@ This is Braincorn vault's canonical navigation index.
 - [[INDEX]]
 - [[AI_README]]
 - [[90_System/Index]]
-- [[90_System/Vault Map]]
-- [[90_System/使用说明]]
-- [[90_System/Git 使用说明]]
 - [[20_Wiki/Index]]
 - [[30_Projects/Index]]
 - [[40_Decisions/Index]]
@@ -34,16 +32,22 @@ This is Braincorn vault's canonical navigation index.
 
 - `AI_README.md`
 - `README.md`
+- `INDEX.md`
 - `90_System/README.md`
 - `90_System/CODEX.md`
+- `90_System/Index.md`
 - `90_System/Vault Map.md`
 - `90_System/使用说明.md`
 - `90_System/Git 使用说明.md`
+- `90_System/Prompts/Index.md`
+- `90_System/AI_Workflows/Index.md`
+- `90_System/Knowledge_Rules/Index.md`
+- `90_System/Templates/Index.md`
 - `20_Wiki/Concepts/LLM Knowledge Base.md`
 - `20_Wiki/Concepts/Obsidian as Markdown Frontend.md`
 - `20_Wiki/Concepts/AI token economy.md`
 - `10_Raw/AI_Tools/Codex + Obsidian 工作流.md`
-- `10_Raw/AI_Tools/2026-05-09_AI token economy 与娱乐行业 AI 数据平台.md`
+- `10_Raw/AI_Tools/2026-05-10_Braincorn_Daily_Capture_2026-W19.md`
 
 ### Markets / Trading
 
@@ -51,10 +55,14 @@ This is Braincorn vault's canonical navigation index.
 - `20_Wiki/Concepts/AI基础设施.md`
 - `20_Wiki/Concepts/FOMO.md`
 - `20_Wiki/Concepts/盘前放量.md`
+- `20_Wiki/Concepts/新身份重估.md`
+- `20_Wiki/Concepts/题材潮流生命周期.md`
 - `20_Wiki/Playbooks/Way to be a trader.md`
 - `20_Wiki/Playbooks/盘前热度选股模型.md`
+- `20_Wiki/Playbooks/盘前30分钟热度股SOP.md`
 - `20_Wiki/Playbooks/财报催化交易模型.md`
 - `20_Wiki/Playbooks/财报重估型AI小盘股扫描模型.md`
+- `20_Wiki/Playbooks/AI高弹性成长股选股模型V2.md`
 - `20_Wiki/Playbooks/新身份重估模型.md`
 - `40_Decisions/Investment_Decisions/2026-05-08 INOD 复盘.md`
 - `40_Decisions/Investment_Decisions/2026-05-08 新身份重估模型.md`
@@ -64,6 +72,8 @@ This is Braincorn vault's canonical navigation index.
 ### XingYu / Product / Career
 
 - `20_Wiki/Products/星与社区.md`
+- `20_Wiki/Products/星与应援任务平台.md`
+- `20_Wiki/Products/应援资源解锁池.md`
 - `20_Wiki/Concepts/饭圈社区冷启动.md`
 - `20_Wiki/Concepts/后援会入驻.md`
 - `20_Wiki/Concepts/商场痛楼合作.md`
@@ -73,6 +83,10 @@ This is Braincorn vault's canonical navigation index.
 - `30_Projects/XingYu_Product/Index.md`
 - `30_Projects/XingYu_Growth/Index.md`
 - `40_Decisions/Career_Decisions/2026-05-09 娱乐行业 AI 数据平台方向.md`
+- `40_Decisions/Personal_Decisions/Index.md`
+- `30_Projects/Personal_System/Index.md`
+- `30_Projects/Body/Index.md`
+- `30_Projects/Writing/Index.md`
 
 ## Navigation Rule
 

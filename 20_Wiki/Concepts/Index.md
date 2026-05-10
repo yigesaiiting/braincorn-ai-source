@@ -1,24 +1,27 @@
+
 ---
 title: Concepts Index
 type: index
 domain: all
 status: active
 created: 2026-05-08
-updated: 2026-05-08
-source: 90_System/CODEX.md
+updated: 2026-05-10
+source: 10_Raw/AI_Tools/2026-05-10_Braincorn_Daily_Capture_2026-W19.md
 tags: [index, concepts]
 aliases: ["Concepts Index"]
 ---
 
 # Concepts Index
 
-## Markets
+## Markets / Trading
 
 - [[FOMO]]
 - [[盘前放量]]
 - [[低流动性风险]]
 - [[AI基础设施]]
 - [[证券交易 vs fashion trends]]
+- [[新身份重估]]
+- [[题材潮流生命周期]]
 
 ## XingYu
 
