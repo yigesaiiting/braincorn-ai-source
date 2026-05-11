@@ -9,20 +9,20 @@ When working in this repository, start here:
 1. `README.md`
 2. `INDEX.md`
 3. `AI_README.md`
-4. `90_Meta/Index.md`
-5. `20_Wiki/Index.md`
-6. `30_Projects/Index.md`
-7. `40_Resolutions/Index.md`
-8. `50_Outputs/Index.md`
+4. `Meta/Index.md`
+5. `Wiki/Index.md`
+6. `Projects/Index.md`
+7. `Resolutions/Index.md`
+8. `Outputs/Index.md`
 
 ## Repository rules
 
-- Do not rewrite `10_Raw/` unless explicitly asked.
-- Distilled knowledge belongs in `20_Wiki/`.
-- Project context belongs in `30_Projects/`.
-- Resolutions belong in `40_Resolutions/`.
-- Deliverables belong in `50_Outputs/`.
-- Rules, prompts, and templates belong in `90_Meta/`.
+- Do not rewrite `Raw/` unless explicitly asked.
+- Distilled knowledge belongs in `Wiki/`.
+- Project context belongs in `Projects/`.
+- Resolutions belong in `Resolutions/`.
+- Deliverables belong in `Outputs/`.
+- Rules, prompts, and templates belong in `Meta/`.
 
 ## Content rules
 

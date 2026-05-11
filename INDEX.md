@@ -6,7 +6,7 @@ domain: all
 status: active
 created: 2026-05-09
 updated: 2026-05-11
-source: 90_Meta/README.md
+source: Meta/README.md
 tags: [index, root, navigation]
 aliases: ["Root Index", "Braincorn INDEX"]
 ---
@@ -14,39 +14,39 @@ aliases: ["Root Index", "Braincorn INDEX"]
 # INDEX
 
 This is the root index.
-For the full navigation and operating rules, read [[90_Meta/Index]] and [[90_Meta/AI_README]].
+For the full navigation and operating rules, read [[Meta/Index]] and [[Meta/AI_README]].
 
 ## Core Entry Points
 
 - [[README]]
 - [[INDEX]]
 - [[AI_README]]
-- [[90_Meta/Index]]
-- [[90_Meta/README]]
-- [[90_Meta/AI_README]]
-- [[20_Wiki/Index]]
-- [[30_Projects/Index]]
-- [[40_Resolutions/Index]]
-- [[50_Outputs/Index]]
+- [[Meta/Index]]
+- [[Meta/README]]
+- [[Meta/AI_README]]
+- [[Wiki/Index]]
+- [[Projects/Index]]
+- [[Resolutions/Index]]
+- [[Outputs/Index]]
 
 ## Full Map
 
-- [[90_Meta/README]]
-- [[90_Meta/Vault Map]]
-- [[90_Meta/CODEX]]
-- [[90_Meta/使用说明]]
-- [[90_Meta/Git 使用说明]]
+- [[Meta/README]]
+- [[Meta/Vault Map]]
+- [[Meta/CODEX]]
+- [[Meta/使用说明]]
+- [[Meta/Git 使用说明]]
 
 ## Section Indexes
 
-- [[90_Meta/AI_Workflows/Index]]
-- [[90_Meta/Knowledge_Rules/Index]]
-- [[90_Meta/Prompts/Index]]
-- [[90_Meta/Templates/Index]]
-- [[20_Wiki/Index]]
-- [[30_Projects/Index]]
-- [[40_Resolutions/Index]]
-- [[50_Outputs/Index]]
+- [[Meta/AI_Workflows/Index]]
+- [[Meta/Knowledge_Rules/Index]]
+- [[Meta/Prompts/Index]]
+- [[Meta/Templates/Index]]
+- [[Wiki/Index]]
+- [[Projects/Index]]
+- [[Resolutions/Index]]
+- [[Outputs/Index]]
 
 ## Reading Rule
 
