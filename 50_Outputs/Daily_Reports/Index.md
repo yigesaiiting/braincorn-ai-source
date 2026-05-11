@@ -1,5 +1,5 @@
 ---
-title: Daily Reports Index
+title: 每日日报索引
 type: index
 domain: all
 status: active
@@ -10,7 +10,7 @@ tags: [index, outputs, daily]
 aliases: ["Daily Reports Index", "每日日报索引"]
 ---
 
-# Daily Reports Index
+# 每日日报索引
 
 每日工作日报的主入口。建议晚间写，沉淀当天完成内容、偏差、复盘与明日衔接。
 
