@@ -41,8 +41,10 @@ Always prefer:
 - `10_Raw/` — raw source material; do not rewrite unless explicitly asked
 - `20_Wiki/` — durable knowledge pages
 - `30_Projects/` — active workstreams and project context
+- `30_Projects/Daily_Plans/` — daily work plans
 - `40_Resolutions/` — resolutions, judgments, reversals, and postmortems
 - `50_Outputs/` — reports, PRDs, essays, reviews, deliverables
+- `50_Outputs/Daily_Reports/` — daily reports
 - `90_Meta/` — rules, prompts, templates, guides, navigation
 
 ## Read order
@@ -107,6 +109,12 @@ If you produce a report, PRD, essay, outline, or review:
 - store it in `50_Outputs/`
 - backlink to the pages it updates
 - if a lasting conclusion emerged, also update the relevant wiki or resolution page
+
+## Daily workflow
+
+- Write daily work plans in `30_Projects/Daily_Plans/`
+- Write daily reports in `50_Outputs/Daily_Reports/`
+- Keep the day’s plan and report linked to each other when possible
 
 ## Editing discipline
 

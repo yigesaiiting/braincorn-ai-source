@@ -95,6 +95,13 @@ This is Braincorn vault's canonical navigation index.
 - `30_Projects/Writing/Index.md`
 - `50_Outputs/Essays/Index.md`
 
+### Daily Workflow
+
+- `30_Projects/Daily_Plans/Index.md`
+- `50_Outputs/Daily_Reports/Index.md`
+- `90_Meta/Templates/Daily_Work_Plan_Template.md`
+- `90_Meta/Templates/Daily_Report_Template.md`
+
 ## Navigation Rule
 
 1. 先从这里进入，再去对应的 Index。

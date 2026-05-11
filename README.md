@@ -11,8 +11,10 @@ For AI-specific execution rules, open [[AI_README]].
 - `10_Raw/` — raw source material
 - `20_Wiki/` — durable knowledge pages
 - `30_Projects/` — active projects
+- `30_Projects/Daily_Plans/` — daily work plans
 - `40_Resolutions/` — resolutions and postmortems
 - `50_Outputs/` — reports, PRDs, essays, reviews
+- `50_Outputs/Daily_Reports/` — daily reports
 - `90_Meta/` — rules, prompts, templates, guides
 
 ## Primary links

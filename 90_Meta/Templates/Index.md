@@ -20,3 +20,5 @@ aliases: ["Templates Index"]
 
 - [[持仓归纳模板]]
 - [[每周持仓复盘模板]]
+- [[Daily_Work_Plan_Template]]
+- [[Daily_Report_Template]]

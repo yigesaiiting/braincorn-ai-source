@@ -26,6 +26,10 @@ aliases: ["Projects Index"]
 - [[30_Projects/Body/Index|Body Index]]
 - [[30_Projects/Writing/Index|Writing Index]]
 
+## Daily Execution
+
+- [[30_Projects/Daily_Plans/Index|Daily Plans Index]]
+
 ## Active Notes
 
 - [[30_Projects/XingYu_Product/星与产品定位升级]]
