@@ -1,23 +1,11 @@
 # Braincorn Knowledge Vault
 
-This repository is an Obsidian-based knowledge vault.
+This is the repository front door.
 
-This file is the repository front door. For detailed navigation, open [[INDEX]].
-For AI-specific execution rules, open [[AI_README]].
+For the full vault map, read [[90_Meta/README]] and [[90_Meta/Index]].
+For AI execution rules, read [[90_Meta/AI_README]].
 
-## Repository structure
-
-- `00_Inbox/` — temporary intake
-- `10_Raw/` — raw source material
-- `20_Wiki/` — durable knowledge pages
-- `30_Projects/` — active projects
-- `30_Projects/Daily_Plans/` — daily work plans
-- `40_Resolutions/` — resolutions and postmortems
-- `50_Outputs/` — reports, PRDs, essays, reviews
-- `50_Outputs/Daily_Reports/` — daily reports
-- `90_Meta/` — rules, prompts, templates, guides
-
-## Primary links
+## Shortcuts
 
 - [[INDEX]]
 - [[AI_README]]
@@ -27,6 +15,12 @@ For AI-specific execution rules, open [[AI_README]].
 - [[40_Resolutions/Index]]
 - [[50_Outputs/Index]]
 
-## Reading rule
+## Structure
 
-Read the relevant index first, then the specific note, and only consult raw sources when verification is needed.
+- `00_Inbox/` — temporary intake
+- `10_Raw/` — raw source material
+- `20_Wiki/` — durable knowledge pages
+- `30_Projects/` — active projects
+- `40_Resolutions/` — judgments and postmortems
+- `50_Outputs/` — reports, PRDs, essays, reviews
+- `90_Meta/` — rules, prompts, templates, guides

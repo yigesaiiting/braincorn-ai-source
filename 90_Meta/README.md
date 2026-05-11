@@ -2,6 +2,9 @@
 
 这个 vault 的工作方式：Obsidian 负责阅读、链接、图谱；Codex 负责整理、编译、重写、质检、检索。
 
+正式 AI 执行规范请看 [[90_Meta/AI_README|AI_README]]。
+正式总索引请看 [[90_Meta/Index|Index]]。
+
 ## 日常节奏
 
 1. 把资料丢进 `00_Inbox/` 或 `10_Raw/`。
