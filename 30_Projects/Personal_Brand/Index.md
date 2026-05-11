@@ -18,6 +18,10 @@ aliases: ["Personal Brand Index"]
 - [[品牌世界观]]
 - [[冷感克制表达写作规范]]
 
+## Projects
+
+- [[版造工厂基因设计师女装品牌]]
+
 ## Outputs
 
 - [[Essays Index]]
