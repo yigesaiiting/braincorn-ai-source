@@ -5,10 +5,12 @@ type: index
 domain: all
 status: active
 created: 2026-05-09
-updated: 2026-05-11
+updated: 2026-05-14
 source: 90_Meta/README.md
 tags: [index, root, navigation]
 aliases: ["Root Index", "Braincorn INDEX"]
+banner: "![[90_Meta/Banners/Typographic Posters Archive/2011/ralph-schraivogel/schwarz-weiss-design-der-gegensätze-6016f58d4e952f10fd645862.jpg]]"
+banner_lock: true
 ---
 
 # INDEX

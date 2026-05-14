@@ -1,3 +1,17 @@
+---
+title: Braincorn Knowledge Vault
+type: root
+domain: all
+status: active
+created: 2026-05-14
+updated: 2026-05-14
+source: user request
+tags: [root, entry, vault]
+aliases: ["Braincorn Knowledge Vault", "Root", "Root Entry"]
+banner: "![[90_Meta/Banners/Typographic Posters Archive/2010/non-format/david-bowie-197684-624a2060f6f7aa095ec8cef8.jpg]]"
+banner_lock: true
+---
+
 # Braincorn Knowledge Vault
 
 This is the repository front door.
