@@ -22,3 +22,4 @@ aliases: ["Daily Reports Index", "每日日报索引"]
 ## Current Reports
 
 - [[2026-05-18]]
+- [[2026-05-20]]
