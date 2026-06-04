@@ -4,7 +4,7 @@ type: index
 domain: all
 status: active
 created: 2026-05-11
- updated: 2026-06-03
+ updated: 2026-06-04
 source: user request
 tags: [index, outputs, daily]
 aliases: ["Daily Reports Index", "每日日报索引"]
@@ -29,3 +29,4 @@ aliases: ["Daily Reports Index", "每日日报索引"]
 - [[2026-05-27]]
 - [[2026-05-28]]
 - [[2026-06-03]]
+- [[2026-06-04]]
