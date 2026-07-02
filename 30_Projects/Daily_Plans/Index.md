@@ -4,7 +4,7 @@ type: index
 domain: all
 status: active
 created: 2026-05-11
- updated: 2026-07-01
+ updated: 2026-07-02
 source: user request
 tags: [index, projects, daily]
 aliases: ["Daily Plans Index", "每日工作计划索引"]
@@ -33,6 +33,7 @@ aliases: ["Daily Plans Index", "每日工作计划索引"]
 - [[2026-06-25]]
 - [[2026-06-29]]
 - [[2026-07-01]]
+- [[2026-07-02]]
 
 ## Writing Rule
 
