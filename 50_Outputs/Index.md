@@ -16,6 +16,7 @@ aliases: ["Outputs Index"]
 
 - [[50_Outputs/Daily_Market_Reports/Index|Daily Market Reports Index]]
 - [[50_Outputs/Daily_Reports/Index|Daily Reports Index]]
+- [[50_Outputs/Monthly_Reviews/Index|Monthly Reviews Index]]
 - [[50_Outputs/Deck_Outlines/Index|Deck Outlines Index]]
 - [[50_Outputs/Essays/Index|Essays Index]]
 - [[50_Outputs/PRDs/Index|PRDs Index]]
